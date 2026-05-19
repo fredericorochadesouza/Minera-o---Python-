@@ -1,0 +1,6 @@
+verificacao,quantidade,acao
+Teores negativos,36,Substituído por NaN → depois zero
+Valores nulos Cu,41,Preenchido com zero (abaixo LD)
+Valores nulos Au,0,Preenchido com zero (abaixo LD)
+Erros de profundidade,0,Nenhum encontrado
+Total corrigido,77,Total de intervalos corrigidos
